@@ -14,5 +14,5 @@ public class PaginatedEmployeeResponse {
     private int currentPage;             // Current page number
     private int totalPages;              // Total number of pages
     private long totalElements;          // Total number of elements
-    private boolean isLastPage;          // Whether this is the last page
+    private boolean isLastPage;
 }
